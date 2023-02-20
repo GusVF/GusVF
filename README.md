@@ -12,23 +12,6 @@ Caraguatatuba, SP, Brasil.
 
 </div>
 
-<a href="https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/" target="_blank">
- 
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- 
-</a>
-
-
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-(12)9-9635-6852
-
-<a href="mailto:gus.116506@gmail.com">
- 
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
- 
-</a>
-
-
  [![General badge](https://img.shields.io/badge/<Skills>-<Tools>-<COLOR>.svg)](https://shields.io/)
  
  <div>
@@ -51,6 +34,28 @@ Caraguatatuba, SP, Brasil.
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
  
 </div>
+
+<div style="display: inline-block">
+ 
+ <a href="https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/" target="blank">
+ 
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ 
+</a>
+ 
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+(12)9-9635-6852
+ 
+<a href="mailto:gus.116506@gmail.com">
+ 
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ 
+</a>
+
+
+</div>
+
+![Snake animation](https://github.com/GusVF/GusVF/blob/output/github-contribution-grid-snake.svg)
  
 
 
