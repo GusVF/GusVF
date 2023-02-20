@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&pause=1000&color=0D5A1F&center=true&vCenter=true&width=450&height=70&lines=Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 
-I am front-end developer and currently studying full stack Web development at Trybe web development school. Currently living in 
+I am Front-end developer and currently studying full stack Web development at Trybe web development school. Currently living in 
 Caraguatatuba, SP, Brasil.
 
 <div>
@@ -22,7 +22,12 @@ Caraguatatuba, SP, Brasil.
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 (12)9-9635-6852
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:gus.116506@gmail.com">
+ 
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ 
+</a>
+
 
  [![General badge](https://img.shields.io/badge/<Skills>-<Tools>-<COLOR>.svg)](https://shields.io/)
  
