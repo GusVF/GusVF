@@ -2,13 +2,14 @@
 
 #### Web development
 
-<a href="[https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
+![Web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-(https://https://github.com/GusVF/github-profile-readme-generator/images/banner.png)
-
-I am currently studying full stack Web development at Trybe web development school. 
+I am currently studying full stack Web development at Trybe web development school. Currently living in Caraguatatuba, SP, Brasil. 
 
 Skills: Docker / SQL / REACT / JS / HTML / CSS / Bulma 
+ 
+
+
+
 
 
