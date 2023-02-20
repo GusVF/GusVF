@@ -3,12 +3,16 @@
 #### Web development
 
 
-I am currently studying full stack Web development at Trybe web development school. Currently living in Caraguatatuba, SP, Brasil.
+I am front-end developer and currently studying full stack Web development at Trybe web development school. Currently living in 
+Caraguatatuba, SP, Brasil.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/))
+&nbsp;
 
  [![General badge](https://img.shields.io/badge/<Skills>-<Tools>-<COLOR>.svg)](https://shields.io/)
 
-<a href="[https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<!-- <a href="[https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,7 +27,6 @@ I am currently studying full stack Web development at Trybe web development scho
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-Skills: Docker / SQL / REACT / JS / HTML / CSS / Bulma 
  
 
 
