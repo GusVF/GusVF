@@ -5,11 +5,19 @@
 I am front-end developer and currently studying full stack Web development at Trybe web development school. Currently living in 
 Caraguatatuba, SP, Brasil.
 
-![GusVF's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusVF&show_icons=true&theme=tokyonight)<br></br>
-
+<div>
+ 
+![GusVF's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusVF&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusVF&theme=tokyonight)](https://github.com/GusVF/github-readme-stats)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</div>
+
+<a href="https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/">
+ 
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ 
+</a>
+
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 (12)9-9635-6852
