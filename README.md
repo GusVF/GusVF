@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Luiz Gustavo Ferreira
 
-<!--
-**GusVF/GusVF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Web development
 
 <a href="[https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
-Here are some ideas to get you started:
 
-- 🔭 I’m currently studying full stack web development course at Tryb
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Web development](https://https://github.com/GusVF/github-profile-readme-generator/images/banner.png)
+
+I am currently studying full stack Web development at Trybe web development school. 
+
+Skills: Docker / SQL / REACT / JS / HTML / CSS / Bulma 
+
+
