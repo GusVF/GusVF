@@ -3,8 +3,9 @@
 #### Web development
 
 
-I am currently studying full stack Web development at Trybe web development school. Currently living in Caraguatatuba, SP, Brasil. 
+I am currently studying full stack Web development at Trybe web development school. Currently living in Caraguatatuba, SP, Brasil.
 
+[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/])]([https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/])
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
