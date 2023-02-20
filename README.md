@@ -7,7 +7,7 @@ I am currently studying full stack Web development at Trybe web development scho
 
 <a href="[https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="{https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white}" />
+<a src="{https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white}" ></a>
 
 https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 
