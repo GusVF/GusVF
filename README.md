@@ -5,13 +5,7 @@
 I am front-end developer and currently studying full stack Web development at Trybe web development school. Currently living in 
 Caraguatatuba, SP, Brasil.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusVF&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GusVF&repo=convoychat" />
-</a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusVF&show_icons=true&theme=radical)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
