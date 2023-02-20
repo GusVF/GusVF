@@ -43,14 +43,14 @@ Caraguatatuba, SP, Brasil.
  
  <div align="center">
   <p><strong>Contact:</strong></><br></br>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <div>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><br>
     (12)9-9635-6852
   </div>
-  <a href="mailto:gus.116506@gmail.com" target="_blank" style="flex: 1;">
+  <a href="mailto:gus.116506@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
