@@ -19,9 +19,12 @@ Caraguatatuba, SP, Brasil.
 
 <div align="center">
  
+##
+ 
 [![General badge](https://img.shields.io/badge/<Skills>-<Tools>-<COLOR>.svg)](https://shields.io/)
  
 </div>
+ 
  
 <div align="center">
   <img alt="Gus-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -33,14 +36,17 @@ Caraguatatuba, SP, Brasil.
   <img alt="Gus-RTL" height="50" width="40" src="https://testing-library.com/img/logo-large.png" alt="rtl icon">
   <img alt="Gus-REDUX" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img alt="Gus-DOCKER" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Gus-DOCKER" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />        
 </div>
 
- <div align="center" style="border: 1px solid black; padding: 10px;">
+ ##
+ 
+ <div align="center">
   <p><strong>Contact:</strong></><br></br>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/" target="_blank" style="flex: 1;">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <div style="display: flex; flex: 1; justify-content: center; align-items: center;">
+  <div>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><br>
     (12)9-9635-6852
   </div>
