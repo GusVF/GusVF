@@ -6,8 +6,7 @@
 I am front-end developer and currently studying full stack Web development at Trybe web development school. Currently living in 
 Caraguatatuba, SP, Brasil.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/luiz-gustavo-ferreira-gusferreira/))
-&nbsp;
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
  [![General badge](https://img.shields.io/badge/<Skills>-<Tools>-<COLOR>.svg)](https://shields.io/)
 
