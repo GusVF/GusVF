@@ -14,7 +14,7 @@ Caraguatatuba, SP, Brasil.
  <p target="_blank"> 👉 Link to my Portfolio 💻</p>
   </a>
 
-<div>
+<div align="center">
  
 ![GusVF's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusVF&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusVF&theme=tokyonight)](https://github.com/GusVF/github-readme-stats)
