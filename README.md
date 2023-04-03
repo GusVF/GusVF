@@ -5,7 +5,7 @@
 
 <div align="center">
  
-I am Front-end developer and currently studying full stack Web development at Trybe web development school. Currently living in 
+I am Full Stack developer and currently studying Web development at Trybe web development school. Currently living in 
 Caraguatatuba, SP, Brasil.
  
 </div>
