@@ -11,9 +11,10 @@ Caraguatatuba, SP, Brasil.
 </div>
 
 
- <a href="https://gusvf.github.io/portfolio/" target="_blank">
+ <a href="https://gusvf.github.io/portfolio/" target="_blank" rel="noopener">
   👉 Link to my Portfolio 💻
 </a>
+
 
 
 <div align="center">
