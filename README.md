@@ -1,6 +1,6 @@
 ### Hello, my name is Luiz Gustavo Ferreira
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=40&pause=1000&color=0D5A1F&center=true&vCenter=true&width=450&height=70&lines=Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=0D5A1F&center=true&vCenter=true&lines=Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 
 
 <div align="center">
