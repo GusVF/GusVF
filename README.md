@@ -1,6 +1,7 @@
 ### Hello, my name is Luiz Gustavo Ferreira
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=0D5A1F&center=true&vCenter=true&lines=Welcome+to+my+GitHub+!)
+![Typing badge](https://img.shields.io/badge/Typing-Welcome%20to%20my%20GitHub!-0D5A1F.svg?style=flat-square&labelColor=0D5A1F)
+
 
 
 <div align="center">
