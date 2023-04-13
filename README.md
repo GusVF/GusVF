@@ -43,7 +43,8 @@ Caraguatatuba, SP, Brasil.
   <img alt="Gus-RTL" height="50" width="40" src="https://testing-library.com/img/logo-large.png" alt="rtl icon">
   <img alt="Gus-REDUX" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img alt="Gus-DOCKER" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img alt="Gus-DOCKER" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />        
+  <img alt="Gus-node.js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img alt="Gus-MySQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
  ##
