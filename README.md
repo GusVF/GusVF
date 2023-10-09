@@ -6,6 +6,11 @@
 <a href="https://gusvf.github.io/portfolio/" target="_blank" rel="noopener">
  <p>👉 Link to my Portfolio 💻</p>
 </a>
+
+<div align="center">
+ 
+<p><strong>About me...</strong></p>
+</div>
 <div align="center">
 
 <p><strong>English:</strong></p>
