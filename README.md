@@ -27,16 +27,14 @@
      </a>
    </div>
 </div>
- 
-##
 
 <div align="center">
  
-<p><strong>About me...</strong></p>
+<h1><strong>About me...</strong></h1>
 </div>
 <div align="center">
 
-<p><strong>English:</strong></p>
+<h2>English:</h2>
 
 
 I am a Full Stack developer with a passion for both Front-end and Back-end development. Having completed an extensive web development course at Trybe, I have immersed myself in technologies like HTML, CSS, JavaScript, Java, Python, TypeScript, Docker, MySQL, Node.js, React Redux, REST API, Spring Boot, and Express. Over the years, I have dabbled with numerous frameworks, always eager to explore the latest in web tech.
@@ -48,8 +46,7 @@ Before pivoting to the world of coding, I have had diverse experiences ranging f
 
 Currently residing in Caraguatatuba, SP, Brasil, I'm on a quest to integrate my newly acquired skills in a dynamic team environment, preferably in a space that values growth and camaraderie.
 
-##
-<p><strong>Português:</strong></p>
+<h2>Português:</h2>
 
 Sou um desenvolvedor Full Stack apaixonado tanto pelo desenvolvimento Front-end quanto pelo Back-end. Após concluir um curso extenso de desenvolvimento web na Trybe, mergulhei em tecnologias como HTML, CSS, JavaScript, Java, Python, TypeScript, Docker, MySQL, Node.js, React Redux, REST API, Spring Boot e Express. Ao longo dos anos, experimentei diversos frameworks, sempre ansioso para explorar o que há de mais recente em tecnologia web.
 
@@ -80,18 +77,18 @@ Atualmente morando em Caraguatatuba, SP, Brasil, estou em busca de integrar minh
  
  
 <div align="center">
-  <img alt="Gus-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="Gus-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="Gus-Bulma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />          
-  <img alt="Gus-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="Gus-REACT" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Gus-Jest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img alt="Gus-Mocha" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  <img alt="Gus-RTL" height="50" width="40" src="https://testing-library.com/img/logo-large.png" alt="rtl icon">
-  <img alt="Gus-REDUX" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img alt="Gus-DOCKER" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img alt="Gus-Node.js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img alt="Gus-MySQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Gus-Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="Gus-HTML" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="Gus-CSS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Gus-Bulma" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />          
+  <img alt="Gus-JS" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="Gus-REACT" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Gus-Jest" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img alt="Gus-Mocha" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img alt="Gus-RTL" height="70" width="60" src="https://testing-library.com/img/logo-large.png" alt="rtl icon">
+  <img alt="Gus-REDUX" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img alt="Gus-DOCKER" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Gus-Node.js" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img alt="Gus-MySQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Gus-Java" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
           
 </div>
