@@ -24,7 +24,6 @@
      <a href="https://wa.me/5512996356852?text=Hello%20Luiz!"> (12)9-9635-6852
      </a>
   </div></br>
-    
    <div>
      <a href="mailto:gus.116506@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -64,10 +63,10 @@ Atualmente morando em Caraguatatuba, SP, Brasil, estou em busca de integrar minh
 
 ##
 
-<div align="center">
- 
-![GusVF's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusVF&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusVF&theme=tokyonight)](https://github.com/GusVF/github-readme-stats)
+<div align="row">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusVF&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusVF&layout=compact)
 
 </div>
 
