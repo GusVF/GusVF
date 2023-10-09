@@ -63,7 +63,7 @@ Atualmente morando em Caraguatatuba, SP, Brasil, estou em busca de integrar minh
 
 ##
 
-<div align="row">
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusVF&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusVF&layout=compact)
