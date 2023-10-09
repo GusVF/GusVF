@@ -41,7 +41,7 @@
 
 I am a Full Stack developer with a passion for both Front-end and Back-end development. Having completed an extensive web development course at Trybe, I have immersed myself in technologies like HTML, CSS, JavaScript, Java, Python, TypeScript, Docker, MySQL, Node.js, React Redux, REST API, Spring Boot, and Express. Over the years, I have dabbled with numerous frameworks, always eager to explore the latest in web tech.
 
-<p><strong>Main technologies I study:</strong></p>
+<p><strong>Main technologies I study and like to practice:</strong></p>
 Java, TypeScript, JavaScript, MySQL, React, Node.js, Docker, APIs, CSS, Bulma, RESTful API, Artificial Intelligence (AI), Machine Learning, CSS, Express.js, Mocha, Chai, Jest.
 
 Before pivoting to the world of coding, I have had diverse experiences ranging from being a Professional Fire Fighter, Emergency Medical Technician to a Residential Constructor, and owning a Mobile Bike Shop. This varied background has equipped me with a unique blend of technical and soft skills, making me adept at problem-solving and effective communication.
