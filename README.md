@@ -1,20 +1,47 @@
-### Hello, my name is Luiz Gustavo Ferreira
+🌍 Hello, my name is Luiz Gustavo Ferreira 🌍
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=dancing+script&size=24&pause=1000&color=10384A&multiline=true&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<div align="center">
- 
-I am Full Stack developer and currently studying Web development at Trybe web development school. Currently living in 
-Caraguatatuba, SP, Brasil.
- 
-</div>
-
-
- <a href="https://gusvf.github.io/portfolio/" target="_blank" rel="noopener">
+<a href="https://gusvf.github.io/portfolio/" target="_blank" rel="noopener">
  <p>👉 Link to my Portfolio 💻</p>
 </a>
+<div align="center">
+
+<p><strong>English:</strong></p>
 
 
+I am a Full Stack developer with a passion for both Front-end and Back-end development. Having completed an extensive web development course at Trybe, I have immersed myself in technologies like HTML, CSS, JavaScript, Java, Python, TypeScript, Docker, MySQL, Node.js, React Redux, REST API, Spring Boot, and Express. Over the years, I have dabbled with numerous frameworks, always eager to explore the latest in web tech.
+
+<p><strong>Main technologies I study:</strong></p>
+Java, TypeScript, JavaScript, MySQL, React, Node.js, Docker, APIs, CSS, Bulma, RESTful API.
+
+<p><strong>Technologies I like to practice:</strong></p>
+Java, TypeScript, JavaScript, MySQL, React, Artificial Intelligence (AI), Machine Learning, CSS.
+
+<p><strong>Frameworks I've experimented with:</strong></p>
+React, Express.js, Mocha, Chai, Jest, Bulma.
+Before pivoting to the world of coding, I have had diverse experiences ranging from being a Professional Fire Fighter, Emergency Medical Technician to a Residential Constructor, and owning a Mobile Bike Shop. This varied background has equipped me with a unique blend of technical and soft skills, making me adept at problem-solving and effective communication.
+
+Currently residing in Caraguatatuba, SP, Brasil, I'm on a quest to integrate my newly acquired skills in a dynamic team environment, preferably in a space that values growth and camaraderie.
+
+<p><strong>Português:</strong></p>
+
+Sou um desenvolvedor Full Stack apaixonado tanto pelo desenvolvimento Front-end quanto pelo Back-end. Após concluir um curso extenso de desenvolvimento web na Trybe, mergulhei em tecnologias como HTML, CSS, JavaScript, Java, Python, TypeScript, Docker, MySQL, Node.js, React Redux, REST API, Spring Boot e Express. Ao longo dos anos, experimentei diversos frameworks, sempre ansioso para explorar o que há de mais recente em tecnologia web.
+
+<p><strong>Principais tecnologias que estudo:</strong></p>
+Java, TypeScript, JavaScript, MySQL, React, Node.js, Docker, APIs, CSS, Bulma, RESTful API.
+
+<p><strong>Tecnologias que gosto de praticar:</strong></p>
+Java, TypeScript, JavaScript, MySQL, React, Inteligência Artificial (AI), Aprendizado de Máquina (Machine Learning), CSS.
+
+<p><strong>Frameworks que já experimentei:</strong></p>
+React, Express.js, Mocha, Chai, Jest, Bulma.
+
+Antes de me voltar para o mundo da programação, tive experiências variadas, desde ser um Bombeiro Profissional, Técnico de Emergência Médica até Construtor Residencial e dono de uma Loja Móvel de Bicicletas. Esse background diversificado me equipou com uma combinação única de habilidades técnicas e interpessoais, tornando-me apto a resolver problemas e a comunicar-me efetivamente.
+
+Atualmente morando em Caraguatatuba, SP, Brasil, estou em busca de integrar minhas novas habilidades em um ambiente de equipe dinâmico, preferencialmente em um espaço que valorize crescimento e camaradagem. 
+</div>
 
 <div align="center">
  
