@@ -1,6 +1,9 @@
-🌍 My name is Luiz Gustavo Ferreira.🌍
+<div align="center">
+<h2>My name is Luiz Gustavo Ferreira.</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=dancing+script&size=24&pause=1000&color=10384A&multiline=true&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=dancing+script&size=40&pause=1000&color=10384A&multiline=true&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+</div>
 
 <div>
   <p><strong><em>Contact:</strong></em></p>
@@ -20,7 +23,8 @@
   <div>
      <a href="https://wa.me/5512996356852?text=Hello%20Luiz!"> (12)9-9635-6852
      </a>
-  </div>
+  </div></br>
+    
    <div>
      <a href="mailto:gus.116506@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -30,7 +34,7 @@
 
 <div align="center">
  
-<h1><strong>About me...</strong></h1>
+<h2><strong>About me...</strong></h2>
 </div>
 <div align="center">
 
