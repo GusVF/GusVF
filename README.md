@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><br>
   </div>
   <div>
-     <a href="https://wa.me/5512996356852?text=Hello%20Luiz!"> (12)9-9635-6852
+     <a href="https://wa.me/5512996356852?text=Hello%20Luiz!"> (352) 710-7111
      </a>
   </div></br>
    <div>
